@@ -1,3 +1,5 @@
-item = [1, 2, 3, 4, 5]
-for x in item:
-    print(x * "*")
+
+rows = eval(input('please enter the number of rows to be printed: '))
+
+fo i in range(rows):
+    print('*'*(i+1))
