@@ -8,5 +8,5 @@ int main()
     {
     }
 
-    return 0;
+    reurn 0;
 }
