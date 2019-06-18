@@ -8,5 +8,5 @@ int main()
     {
     }
 
-    reun 0;
+    run 0;
 }
