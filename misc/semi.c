@@ -7,6 +7,4 @@ int main()
     if (printf("%c", 59))
     {
     }
-
-    run
 }
