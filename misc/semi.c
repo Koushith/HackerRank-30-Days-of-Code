@@ -4,7 +4,7 @@
 
 int main()
 {
-    if (rintf("%c", 59))
+    if (prinf("%c", 59))
     {
     }
 }
