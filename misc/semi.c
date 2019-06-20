@@ -7,4 +7,3 @@ int main()
     if (prinf("%c", 59))
     {
     }
-}
