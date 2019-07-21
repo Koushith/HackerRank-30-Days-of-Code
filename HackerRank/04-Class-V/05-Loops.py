@@ -8,7 +8,15 @@ N x i = result.
 """
 
 
-N = int(input().strip())
+import math
+import os
+import random
+import re
+import sys
 
-for i in range(1, 11):
-	print('{0} x {1} = {2}'.format(N, i, N * i))
+
+if __name__ == '__main__':
+    print("Input no")
+    n = int(input())
+for i in range(1 11):
+    print(str(n) + " x " + str(i) + " = " + str(n * i))
